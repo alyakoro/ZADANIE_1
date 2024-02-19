@@ -4,7 +4,7 @@ namespace ZADANIE_1
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             bool exit = false;
             while (exit != true)
